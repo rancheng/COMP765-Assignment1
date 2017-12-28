@@ -1,0 +1,8 @@
+prefix=/home/ran/Documents/Assignment1/devel
+
+Name: comp765_assign1
+Description: Description of comp765_assign1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ran/Documents/Assignment1/devel/lib 
+Requires: 

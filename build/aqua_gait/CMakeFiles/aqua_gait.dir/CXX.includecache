@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ran/Documents/Assignment1/src/aqua_gait/include/aqua_gait/Gaits.hpp
+cmath
+-
+cassert
+-
+chrono
+-
+functional
+-
+
+/home/ran/Documents/Assignment1/src/aqua_gait/src/Gaits.cpp
+aqua_gait/Gaits.hpp
+/home/ran/Documents/Assignment1/src/aqua_gait/src/aqua_gait/Gaits.hpp
+

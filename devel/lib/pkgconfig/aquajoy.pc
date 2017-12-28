@@ -1,0 +1,8 @@
+prefix=/home/ran/Documents/Assignment1/devel
+
+Name: aquajoy
+Description: Description of aquajoy
+Version: 0.0.1
+Cflags: -I/home/ran/Documents/Assignment1/devel/include
+Libs: -L/home/ran/Documents/Assignment1/devel/lib 
+Requires: roscpp dynamic_reconfigure aquacore sensor_msgs geometry_msgs angles tf message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/ran/Documents/Assignment1/devel
+
+Name: aqua_description
+Description: Description of aqua_description
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/ran/Documents/Assignment1/devel/lib 
+Requires: roscpp xacro urdf angles aquacore

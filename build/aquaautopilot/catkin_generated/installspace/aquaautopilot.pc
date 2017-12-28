@@ -1,0 +1,8 @@
+prefix=/home/ran/Documents/Assignment1/install
+
+Name: aquaautopilot
+Description: Description of aquaautopilot
+Version: 1.0.0
+Cflags: -I/home/ran/Documents/Assignment1/install/include
+Libs: -L/home/ran/Documents/Assignment1/install/lib 
+Requires: aquacore aquadepth roscpp bullet message_runtime geometry_msgs tf
